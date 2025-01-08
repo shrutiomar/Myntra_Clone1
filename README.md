@@ -37,5 +37,5 @@ A functional clone of the Myntra website that replicates the layout and essentia
    ```bash
    git clone https://github.com/yourusername/myntra-functional-clone.git
 2. Navigate to the project folder:<br>
-   cd myntra-functional-clone
+   cd myntra-functional-clone <br>
 3.Open index.html in your browser to explore the website. 
